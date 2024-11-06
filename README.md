@@ -1,2 +1,2 @@
-# data_science
+# DATA SCIENCE
 Proyectos de AI
